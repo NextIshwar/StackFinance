@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1003297382762",
+    "project_id": "stackfinance-c87a5",
+    "storage_bucket": "stackfinance-c87a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003297382762:android:380ab47bdedc86e0800513",
+        "android_client_info": {
+          "package_name": "com.example.SFinance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1003297382762-5d8j8eagi0hgnhp2jouq4tungpjh7tor.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHAnPJpbdzDMUAG7sQY-2fs9mXZh5vieI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1003297382762-5d8j8eagi0hgnhp2jouq4tungpjh7tor.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
